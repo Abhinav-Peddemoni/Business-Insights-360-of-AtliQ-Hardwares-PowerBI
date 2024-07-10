@@ -7,8 +7,13 @@
 *Technology Stack*
 
 •	SQL
+
 •	PowerBI Desktop
+
 •	Excel
+
 •	DAX language
+
 •	DAX Studio (for report optimization)
+
 •	Project charter file
