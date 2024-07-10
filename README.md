@@ -29,3 +29,6 @@ Publishing reports to Power BI services
 Setting up a personal data gateway for automated data refresh
 Crafting PowerBi Apps
 Collaborating efficiently, managing workspaces, and configuring access permissions within Power BI services
+
+https://github.com/Abhinav-Peddemoni/Business-Insights-360-of-AtliQ-Hardwares/issues/1#issue-2400370617
+
