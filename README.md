@@ -6,12 +6,12 @@
 
 *Technology Stack*
 
-•	SQL<br/>
+*	SQL<br/>
 *	PowerBI Desktop<br/>
-•	Excel<br/>
-•	DAX language<br/>
-•	DAX Studio (for report optimization)<br/>
-•	Project charter file<br/>
+*	Excel<br/>
+*	DAX language<br/>
+*	DAX Studio (for report optimization)<br/>
+*	Project charter file<br/>
 
 *PowerBI Techniques Mastered*
 
