@@ -15,21 +15,21 @@
 
 *PowerBI Techniques Mastered*
 
-•	Crafting precise project questions<br/>
-•	Developing calculated columns<br/>
-•	Creating measures using the DAX language<br/>
-•	Mastering data modeling<br/>
-•	Seamlessly switching visuals with Bookmarks<br/>
-•	Navigating pages using interactive buttons<br/>
-•	Preventing zero division errors with the divide function<br/>
-•	Generating dynamic titles based on applied filters<br/>
-•	Utilizing KPI indicators<br/>
-•	Applying conditional formatting to visual elements, including icons and background colors<br/>
-•	Implementing data validation techniques<br/>
-•	Publishing reports to Power BI services<br/>
-•	Setting up a personal data gateway for automated data refresh<br/>
-•	Crafting PowerBI Apps<br/>
-•	Collaborating efficiently, managing workspaces, and configuring access permissions within Power BI services<br/>
+*	Crafting precise project questions<br/>
+*	Developing calculated columns<br/>
+*	Creating measures using the DAX language<br/>
+*	Mastering data modeling<br/>
+*	Seamlessly switching visuals with Bookmarks<br/>
+*	Navigating pages using interactive buttons<br/>
+*	Preventing zero division errors with the divide function<br/>
+*	Generating dynamic titles based on applied filters<br/>
+*	Utilizing KPI indicators<br/>
+*	Applying conditional formatting to visual elements, including icons and background colors<br/>
+*	Implementing data validation techniques<br/>
+*	Publishing reports to Power BI services<br/>
+*	Setting up a personal data gateway for automated data refresh<br/>
+*	Crafting PowerBI Apps<br/>
+*	Collaborating efficiently, managing workspaces, and configuring access permissions within Power BI services<br/>
 
 
 
