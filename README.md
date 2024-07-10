@@ -4,31 +4,11 @@
 
 *Project Objective:* This project's primary objective is to bring clarity to the data analytics initiative's purpose and objectives. The resulting report will serve as a cornerstone for data-driven decision-making, addressing a myriad of questions about the company's performance. It represents a crucial step in not only surviving but thriving in the industry.
 
-Technology Stack:
+*Technology Stack*
 
-SQL
-PowerBi Desktop
-Excel
-DAX language
-DAX Studio (for report optimization)
-Project charter file
-PowerBI Techniques Mastered:
-
-Crafting precise project questions
-Developing calculated columns
-Creating measures using the DAX language
-Mastering data modeling
-Seamlessly switching visuals with Bookmarks
-Navigating pages using interactive buttons
-Preventing zero division errors with the divide function
-Generating dynamic titles based on applied filters
-Utilizing KPI indicators
-Applying conditional formatting to visual elements, including icons and background colors
-Implementing data validation techniques
-Publishing reports to Power BI services
-Setting up a personal data gateway for automated data refresh
-Crafting PowerBi Apps
-Collaborating efficiently, managing workspaces, and configuring access permissions within Power BI services
-
-https://github.com/Abhinav-Peddemoni/Business-Insights-360-of-AtliQ-Hardwares/issues/1#issue-2400370617
-
+•	SQL
+•	PowerBI Desktop
+•	Excel
+•	DAX language
+•	DAX Studio (for report optimization)
+•	Project charter file
