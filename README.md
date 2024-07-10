@@ -6,8 +6,7 @@
 
 *Technology Stack*
 
-•	SQL
-
+•	SQL< br / >
 •	PowerBI Desktop
 
 •	Excel
