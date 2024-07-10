@@ -7,7 +7,7 @@
 *Technology Stack*
 
 •	SQL<br/>
-•	PowerBI Desktop<br/>
+*	PowerBI Desktop<br/>
 •	Excel<br/>
 •	DAX language<br/>
 •	DAX Studio (for report optimization)<br/>
