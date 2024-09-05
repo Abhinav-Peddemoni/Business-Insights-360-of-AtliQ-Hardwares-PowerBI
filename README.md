@@ -12,7 +12,6 @@
 *	Excel<br/>
 *	DAX language<br/>
 *	DAX Studio (for report optimization)<br/>
-*	Project charter file<br/>
 
 **PowerBI Techniques Mastered**
 *	Crafting precise project questions<br/>
