@@ -14,7 +14,6 @@
 *	DAX Studio (for report optimization)<br/>
 
 **PowerBI Techniques Mastered**
-*	Crafting precise project questions<br/>
 *	Developing calculated columns<br/>
 *	Creating measures using the DAX language<br/>
 *	Mastering data modeling<br/>
