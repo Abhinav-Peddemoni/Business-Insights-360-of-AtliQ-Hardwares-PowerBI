@@ -6,8 +6,7 @@
 
 *Project Objective:* This project's primary objective is to bring clarity to the data analytics initiative's purpose and objectives. The resulting report will serve as a cornerstone for data-driven decision-making, addressing a myriad of questions about the company's performance. It represents a crucial step in not only surviving but thriving in the industry.
 
-*Technology Stack*
-
+**Technology Stack**
 *	SQL<br/>
 *	PowerBI Desktop<br/>
 *	Excel<br/>
@@ -15,8 +14,7 @@
 *	DAX Studio (for report optimization)<br/>
 *	Project charter file<br/>
 
-*PowerBI Techniques Mastered*
-
+**PowerBI Techniques Mastered**
 *	Crafting precise project questions<br/>
 *	Developing calculated columns<br/>
 *	Creating measures using the DAX language<br/>
